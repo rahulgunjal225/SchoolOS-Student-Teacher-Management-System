@@ -1,7 +1,3 @@
-# SchoolOS-Student-Teacher-Management-System
-
-
-
 
 # 🏫 SchoolOS - Smart School Management System
 
