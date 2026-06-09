@@ -1,0 +1,48 @@
+{
+    "students": [
+        {
+            "name": "Rahul",
+            "age": 21,
+            "email": "rahul@gmail.com",
+            "roll_no": "1",
+            "grades": {
+                "Maths": 90.0,
+                "math": 75.0
+            }
+        },
+        {
+            "name": "Amit",
+            "age": 22,
+            "email": "amit@gmail.com",
+            "roll_no": "2",
+            "grades": {
+                "math": 75.0
+            }
+        },
+        {
+            "name": "raj",
+            "age": 22,
+            "email": "raj@gmail.com",
+            "roll_no": "22",
+            "grades": {
+                "math": 75.0
+            }
+        }
+    ],
+    "teachers": [
+        {
+            "name": "Prajwal",
+            "age": 45,
+            "email": "prajwal@gmail.com",
+            "subject": "English",
+            "emp_id": "1"
+        },
+        {
+            "name": "Pratik Dawkhar",
+            "age": 38,
+            "email": "pratik@gmail.com",
+            "subject": "math",
+            "emp_id": "123"
+        }
+    ]
+}
